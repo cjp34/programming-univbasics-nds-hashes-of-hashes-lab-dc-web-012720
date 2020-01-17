@@ -44,7 +44,7 @@ def naming_system
 
 world = {
   :label => Kingdom {
-    :sub_category => Phylum {
+    sub_category: "Phylum" {
       :sub_category => Class {
         :sub_category => Order
       }
