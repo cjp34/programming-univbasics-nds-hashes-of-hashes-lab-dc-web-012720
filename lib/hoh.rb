@@ -56,7 +56,7 @@ world = {
             label: "Genus",
             sub_category: {
               label: "Species"
-            }
+              }
             }
           }
         }
