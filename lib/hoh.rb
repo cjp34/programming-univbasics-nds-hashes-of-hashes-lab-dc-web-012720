@@ -55,7 +55,7 @@ world = {
           sub_category: {
             label: "Genus",
             sub_category: {
-              label: "Speciec"
+              label: "Species"
             }
             }
           }
