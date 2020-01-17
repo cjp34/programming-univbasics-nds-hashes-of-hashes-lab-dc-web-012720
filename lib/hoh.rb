@@ -51,5 +51,8 @@ world = {
        sub_category: {
          label: "Order"
        }
+     }
+    }
+}
 
 end
